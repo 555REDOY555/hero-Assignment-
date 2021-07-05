@@ -74,6 +74,32 @@
     text-decoration: none;
     background-image:linear-gradient(tomato,red);
     color: white;
+}
+#lai{
+    background-color: #FDEAEC;
+    margin: 0;
+    padding: 0;
+}
 
-
+#sess{
+    text-align: center;
+    color: gray;
+    font-size: 70px;
+    margin: 0;
+    padding: 0;
+}
+#seesp{
+   text-align: center;
+   padding-top: 70px;
+   font-size: 22px;
+}
+.new{
+    display: flex;
+    clear: both;
+    display: table;
+}
+.no{
+    float: left;
+    width: 33.35%;
+    padding: 5px;
 }
