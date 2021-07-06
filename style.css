@@ -111,15 +111,21 @@
     .column {
       width: 100%;
       display: block;
+      margin: 0;
     }
   }
   
   .card {
     box-shadow: 10px 10px 40px gray;
+    border-radius: 40px;
     
   }
   .card p{
     margin-left: 30px;
+  }
+  .card img{
+    border-radius: 70px;
+    padding: 30px;
   }
   
   .container {
@@ -183,7 +189,9 @@ html {
   color: white;
 }
 #cop{
+  margin: 0;
   background-color: RGB(10 13 22);
   padding-top: 20px;
   padding-bottom: 70px;
+ 
 }
